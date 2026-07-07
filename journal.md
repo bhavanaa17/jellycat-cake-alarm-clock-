@@ -11,7 +11,8 @@ please help.
 
 new update: I LEARNED HOW TO MAKE A MD FILE FINALLY
 
-so this is these are the tea lights/candle lights I was talking about - a little expensive but cheaper in my opinion and easier to work with :) also It's quite pretty honestly
+so this is these are the tea lights/candle lights I was talking about - a little expensive but cheaper in my opinion and easier to work with :) 
+also It's quite pretty honestly
 <img width="552" height="404" alt="amazon lights" src="https://github.com/user-attachments/assets/3d13c6a3-b01b-423a-ae95-9068c559ee20" />
 
 my planning drawing: 
@@ -33,6 +34,24 @@ YAY - I made the top part though it's not how I really want it. I really wanted 
 This is the full version with both parts connected but more updates will be added to the CAD later! 
 
 <img width="1514" height="875" alt="jellycat cake alarm clock fusion - full" src="https://github.com/user-attachments/assets/53f156dc-819e-430d-8c5d-ff79d2c02a3b" />
+
+
+7/6/26
+
+Starting with the schematic.. yay..:
+
+This was definitely so confusing at first because I tried watching so many youtube videos and it was kinda useful but it didn't help that much. Thankfully, there was an example on the Github example repo so I start from what that example had and just tried to understand what was going on.  After a while, I started to understand where each part went and changed it up a little when I removed the 6th switch and added my candle light. I had to search up a lot but I saw that many recomended to use a transistor so I could be able to switch off the light whenever I wanted. I added a resistor becasue I was little worried that the ESP32 would blow up :) which is connected to transistor or the base. Then I added a JST connector for the candle light to plug into where pin 1 sends power to the light while pin 2 is the return path. Understanding and learning all of this took so long but I'm pretty satisfied on what I learned. In addition, I also learned how to use net labels and it was helpful for making my schematic more neater and cleaner. 
+
+My schematic: 
+<img width="1230" height="551" alt="jellycat cake alarm clock schematic " src="https://github.com/user-attachments/assets/6419da69-4c27-4398-bfc1-d413486a1e62" />
+
+Then I added in my footprints - mainly used the ones from the Github example repo and some in my own footprint library that I thought matched to the items I'm planning to buy on amazon. 
+
+My footprints: 
+<img width="1228" height="600" alt="jellycat cake alarm footprints" src="https://github.com/user-attachments/assets/395a07e8-11af-49e6-907c-e2ee5c45869f" />
+
+
+
 
 
 
