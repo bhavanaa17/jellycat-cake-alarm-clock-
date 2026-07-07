@@ -1,6 +1,7 @@
 
 
 7/5/26
+
 To start this project off, I created a drawing of how I wanted the alarm clock to look like and just what features I wanted in my alarm clock. As it is a jellycat cake, I wanted to have a cool feature that made the alarm unique. I decided that I wanted the candle to light for small timers or when I just want it to (presses a button and the light turns on). I think it makes the alarm more alive and more fun to work with. I found these similar kinda tea lights that I could instead of trying to 3d print with translucent filament (so expensive:( ). They have wires at the end so I think it could be pretty easy to add. 
 
 <img width="552" height="404" alt="amazon lights" src="https://github.com/user-attachments/assets/3d13c6a3-b01b-423a-ae95-9068c559ee20" />
