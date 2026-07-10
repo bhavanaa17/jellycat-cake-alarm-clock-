@@ -10,3 +10,17 @@ I learned so much from this project from learning how to use Github to creating 
 <img width="2360" height="1640" alt="planning doc" src="https://github.com/user-attachments/assets/a9d368a6-b0af-4109-8664-b6bb5f7d0a8c" />
 
 <img width="782" height="696" alt="Screenshot 2026-07-09 180816" src="https://github.com/user-attachments/assets/6a30224e-50c6-4631-a86e-9b1953fe9529" />
+
+
+# BOM
+
+| NO. | Component                     | Quantity |   |   |   |
+|-----|-------------------------------|----------|---|---|---|
+| 1   | Switches & Keycaps            | 5        |   |   |   |
+| 2   | Lolin C3 Mini ESP 32 Devboard | 1        |   |   |   |
+| 3   | 3.3V Piezo Buzzer             | 1        |   |   |   |
+| 4   | 2.25in TFT Screen             | 1        |   |   |   |
+| 5   | 1K Ohm Resistor               | 1        |   |   |   |
+| 6   | MPS2222A NPN Transistor       | 1        |   |   |   |
+| 7   | Flickering Flame LED Bulb     | 1        |   |   |   |
+| 8   | JST Connector                 | 1        |   |   |   |
