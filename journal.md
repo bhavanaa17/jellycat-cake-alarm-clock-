@@ -44,3 +44,30 @@ Then I added in my footprints. I mainly used the ones from the GitHub example re
 My footprints: 
 <img width="1228" height="600" alt="jellycat cake alarm footprints" src="https://github.com/user-attachments/assets/395a07e8-11af-49e6-907c-e2ee5c45869f" />
 
+
+7/7/26 
+
+PCB designing: 
+
+This took me a A WHILE to figure out how to trace and connect everything. ALso, during this process I learned that I mixed up my JST connector and resistor's footprints, so that was quite fun. Even though this was kinda confusing because I kept running into errors with my display's symbol's and with the 3d models, it was quite fun and rewarding after I finished this! 
+<img width="1286" height="634" alt="pcb 3d" src="https://github.com/user-attachments/assets/5f21ab5b-7ccb-4e2f-8e24-78f43355f698" />
+<img width="936" height="776" alt="pcb" src="https://github.com/user-attachments/assets/371852d8-374d-4dc5-91bd-bd23f99f09c2" />
+
+7/9/26 
+
+Adding the pcb + CAD:
+
+Now this was so fun to do because I actually got see my alarm come all together. Though at some monments, I wished I could change my pcb design as when I was creating the holes for my keys, buzzer and display, it looked a little weird.. but I managed to fix it to how I like it :) At that time, I also made my candle that I'm hoping to paint once I get it so I can make it really look like the real Jellycat cake. But overall, this part was quite fun and quick to finish!
+
+here I added some mounts - not in the pic but the mounting holes are there :)
+<img width="1393" height="906" alt="Screenshot 2026-07-09 181004" src="https://github.com/user-attachments/assets/781dd4f2-c418-49af-8927-7021b948ed57" />
+
+<img width="782" height="696" alt="Screenshot 2026-07-09 180816" src="https://github.com/user-attachments/assets/bfbddc5e-e648-4756-bbf8-f3f14d49358e" />
+
+Filmwire: 
+ I only had like around 2 hours to write my code and honestly I'm not sure that I did it all right to be honest. This is my first time using Arduino IDE, which I believe is C++ (also my first time), and it was quite similar to java but I was still so confused. Especially without being able to test my code, I struggled HARD but I think I wrote somewhat of something that could work? I tried adding in a timer function where I set timers using three of my buttons that I added and also made it to display a time for right now. That is just the main features I wanted to add in my clock. 
+
+ END OF JOURNAL 
+
+
+
