@@ -2,7 +2,7 @@
 An alarm clock inspired by the Jellycat Cake stuffed animal with 5 switches, a buzzer, and a display that displays the time. On top of the cake/alarm, there will be a light up candle that lights up at the end of your timers or alarms as a celebration. 
 
 This alarm clock is inspired by the iconic Jellycat Cake stuffed animal. I wanted this project to be fun to make as this is my first ever project in HackClub. In addition, I really wanted to stick to the theme of "slumber" as we are making alarm clocks and getting pillowcase out of this, so might as well make look like a stuffed animal :) 
-I learned so much from this project from learning how to use Github to creating my own pcb. This project was so fun to do and I'm so grateful that I was aprt of the blare program!
+I learned so much from this project from learning how to use Github to creating my own pcb. This project was so fun to do and I'm so grateful that I was apart of the blare program!
 
 
 <img width="1600" height="1600" alt="61qZV0QJS3L" src="https://github.com/user-attachments/assets/df1f07a5-add5-4c0c-99ff-0559e8ce2116" />
