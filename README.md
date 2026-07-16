@@ -9,7 +9,8 @@ I learned so much from this project from learning how to use Github to creating 
 
 <img width="2360" height="1640" alt="planning doc" src="https://github.com/user-attachments/assets/a9d368a6-b0af-4109-8664-b6bb5f7d0a8c" />
 
-<img width="782" height="696" alt="Screenshot 2026-07-09 180816" src="https://github.com/user-attachments/assets/6a30224e-50c6-4631-a86e-9b1953fe9529" />
+<img width="813" height="655" alt="Screenshot 2026-07-15 192822" src="https://github.com/user-attachments/assets/415df46e-4c6b-41a3-8340-a1664d8616f6" />
+
 
 
 # BOM
