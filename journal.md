@@ -80,6 +80,9 @@ Time: 2 hours
 
 I made a bunch of revisions on my cad as I was asked on how my mounting worked and realized that I wouldn't even be able to put my pcb in the first place. I'm so glad that I was able to fix that before it was actually 3d printed. I also fixed a bit of my code as it was in patchy shape though I think I got most of the buttons working! I also finally added the right kicad files this time. 
 
+<img width="853" height="833" alt="Screenshot 2026-07-15 193446" src="https://github.com/user-attachments/assets/d4f5343b-1b2c-4f98-9d51-d73f845f9af6" />
+this is my mounting
+
  
 
  END OF JOURNAL 
