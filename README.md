@@ -14,14 +14,13 @@ I learned so much from this project from learning how to use Github to creating 
 
 
 # BOM
-
-| NO. | Component                     | Quantity |   |   |   |
-|-----|-------------------------------|----------|---|---|---|
-| 1   | Switches & Keycaps            | 5        |   |   |   |
-| 2   | Lolin C3 Mini ESP 32 Devboard | 1        |   |   |   |
-| 3   | 3.3V Piezo Buzzer             | 1        |   |   |   |
-| 4   | 2.25in TFT Screen             | 1        |   |   |   |
-| 5   | 1K Ohm Resistor               | 1        |   |   |   |
-| 6   | MPS2222A NPN Transistor       | 1        |   |   |   |
-| 7   | Flickering Flame LED Bulb     | 1        |   |   |   |
-| 8   | JST Connector                 | 1        |   |   |   |
+| NO. | Component                     | Quantity | Price | link                    |   |   |
+|-----|-------------------------------|----------|-------|-------------------------|---|---|
+| 1   | Switches & Keycaps            | 5        | ?     | ?                       |   |   |
+| 2   | Lolin C3 Mini ESP 32 Devboard | 1        | ?     | ?                       |   |   |
+| 3   | 3.3V Piezo Buzzer             | 1        | ?     | ?                       |   |   |
+| 4   | 2.25in TFT Screen             | 1        | ?     | ?                       |   |   |
+| 5   | 1K Ohm Resistor               | 1        | $3.99 | https://a.co/d/0bcCZgvA |   |   |
+| 6   | MPS2222A NPN Transistor       | 1        | $5.29 | https://a.co/d/0cQcJC6b |   |   |
+| 7   | Flickering Flame LED Bulb     | 1        | $5.79 | https://a.co/d/05IgeI5d |   |   |
+| 8   | JST Connector                 | 1        | $5.97 | https://a.co/d/0f5pG4NX |   |   |
